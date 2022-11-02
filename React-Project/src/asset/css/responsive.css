@@ -1,0 +1,138 @@
+
+@media screen and (max-width: 390px) {
+
+    .topFixedPage{min-height: 545px;}
+    .topPageOverlay{min-height: 545px;}
+}
+
+
+@media screen and (max-width: 450px) {
+
+    .topFixedPage{min-height: 490px;}
+    .topPageOverlay{min-height: 490px;}
+}
+
+@media only screen and (max-width: 484px) {
+
+    .topFixedPage{min-height: 460px;}
+    .topPageOverlay{min-height: 460px;}
+}
+
+
+
+@media (max-width: 575.98px) {
+
+
+    .topTitle{font-size: 28px;}
+
+    .topSubTitle{font-size: 16px;}
+
+    .serviceMainTitle{font-size: 22px;}
+
+    .LoaderAnimation{width: 100px;height: 100px;}
+
+    .serviceName{font-size: 18px;}
+
+    .countNumber{font-size: 32px;}
+    .countTitle{font-size: 16px;}
+    .countSection{margin-top: 10%;}
+    .workCard{margin-top: 5%; padding: 5px 5px 5px 5px; border-radius: 2px;}
+
+    .SummaryBanner{min-height: 460px;}
+    .SummaryBannerOverlay{min-height: 460px;}
+
+    .videoCard{padding: 2rem 2rem 2rem 2rem; margin: 30px auto;}
+    .videoDes{font-size: 14px;}
+
+    .courseFullTitle{font-size: 24px;}
+    .topFixedPage{min-height: 420px;}
+    .topPageOverlay{min-height: 420px;}
+
+    .courseDetailsVideo{margin-top: 48px;}
+
+    .ContactAdress{margin-top: 48px;}
+
+
+    .navBackground{
+        background-color: rgba(0,0,0,0.9) !important;
+    }
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px){
+
+    .topTitle{font-size: 36px;}
+    .topSubTitle{font-size: 18px;}
+    .serviceMainTitle{font-size: 24px;}
+    .LoaderAnimation{width: 120px;height: 120px;}
+    .serviceName{font-size: 18px;}
+
+    .countNumber{font-size: 32px;}
+
+    .countTitle{font-size: 16px;}
+
+    .countSection{margin-top: 10%;}
+
+    .workCard{margin-top: 5%; padding: 5px 5px 5px 5px; border-radius: 2px;}
+
+    .SummaryBanner{min-height: 460px;}
+    .SummaryBannerOverlay{min-height: 460px;}
+
+    .videoCard{padding: 2rem 2rem 2rem 2rem; margin: 30px auto;}
+    .videoDes{font-size: 14px;}
+
+    .courseFullTitle{font-size: 24px;}
+    .courseDetailsVideo{margin-top: 48px;}
+
+    .topFixedPage{min-height: 420px;}
+    .topPageOverlay{min-height: 420px;}
+
+    .ContactAdress{margin-top: 48px;}
+
+    .navBackground{
+        background-color: rgba(0,0,0,0.9) !important;
+    }
+
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px)  {
+
+    .countNumber{font-size: 36px;}
+
+    .countTitle{font-size: 18px;}
+
+    .countSection{margin-top: 35%;}
+
+    .courseFullTitle{font-size: 24px;}
+    .courseDetailsVideo{padding-top: 48px;}
+
+    .topFixedPage{min-height: 369px;}
+    .topPageOverlay{min-height: 369px;}
+
+    .navBackground{
+        background-color: rgba(0,0,0,0.9) !important;
+    }
+
+}
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .topFixedPage{min-height: 308px;}
+    .topPageOverlay{min-height: 308px;}
+
+}
+
+@media (min-width: 1200px) {
+
+
+}
+
+
+
