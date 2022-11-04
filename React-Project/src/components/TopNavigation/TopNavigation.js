@@ -1,7 +1,7 @@
 import React, {Component, Fragment, useRef} from 'react';
 import {Container, Navbar, Nav, NavDropdown, Collapse} from "react-bootstrap";
-import '../../asset/css/custom.css';
-import '../../asset/css/bootstrap.min.css';
+//import '../../asset/css/custom.css';
+//import '../../asset/css/bootstrap.min.css';
 import whiteLogo from '../../asset/image/navLogo4.webp';
 import scrollLogo from '../../asset/image/navScrollLogo.webp';
 import {NavLink} from "react-router-dom";

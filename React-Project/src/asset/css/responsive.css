@@ -1,23 +1,4 @@
 
-@media screen and (max-width: 390px) {
-
-    .topFixedPage{min-height: 545px;}
-    .topPageOverlay{min-height: 545px;}
-}
-
-
-@media screen and (max-width: 450px) {
-
-    .topFixedPage{min-height: 490px;}
-    .topPageOverlay{min-height: 490px;}
-}
-
-@media only screen and (max-width: 484px) {
-
-    .topFixedPage{min-height: 460px;}
-    .topPageOverlay{min-height: 460px;}
-}
-
 
 
 @media (max-width: 575.98px) {
@@ -47,6 +28,9 @@
     .courseFullTitle{font-size: 24px;}
     .topFixedPage{min-height: 420px;}
     .topPageOverlay{min-height: 420px;}
+    .topPageContent {
+        margin-top: 13rem;
+    }
 
     .courseDetailsVideo{margin-top: 48px;}
 
@@ -86,8 +70,11 @@
     .courseFullTitle{font-size: 24px;}
     .courseDetailsVideo{margin-top: 48px;}
 
-    .topFixedPage{min-height: 420px;}
-    .topPageOverlay{min-height: 420px;}
+    .topFixedPage{min-height: 375px;}
+    .topPageOverlay{min-height: 375px;}
+    .topPageContent {
+        margin-top: 13rem;
+    }
 
     .ContactAdress{margin-top: 48px;}
 
@@ -111,8 +98,11 @@
     .courseFullTitle{font-size: 24px;}
     .courseDetailsVideo{padding-top: 48px;}
 
-    .topFixedPage{min-height: 369px;}
-    .topPageOverlay{min-height: 369px;}
+    .topFixedPage{min-height: 311px;}
+    .topPageOverlay{min-height: 311px;}
+    .topPageContent {
+        margin-top: 12rem;
+    }
 
     .navBackground{
         background-color: rgba(0,0,0,0.9) !important;
@@ -124,8 +114,11 @@
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
 
-    .topFixedPage{min-height: 308px;}
-    .topPageOverlay{min-height: 308px;}
+    .topFixedPage{min-height: 266px;}
+    .topPageOverlay{min-height: 266px;}
+    .topPageContent {
+        margin-top: 10rem;
+    }
 
 }
 
